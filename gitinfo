@@ -1,0 +1,17 @@
+how to add project to git
+
+// Cheak the status
+c) git status
+c) git init
+
+//not add the project
+c) git add .
+c) git commit -m "comment"
+c) repo link
+git push -u origin master
+
+//the end .now the projeact is uploaded .
+//now how to update the file
+c) git add --all
+c) git commit -m "comments"
+c) git push
